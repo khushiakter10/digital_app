@@ -14,10 +14,10 @@ A modern digital identity app built using **Flutter**. It features user profile 
 ### ❤️ Favorite Screen  
 <img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153716.png" width="250"/>
 
-### 📷 Scan QR Code Screen  
+### 📷 Redemption Rules Screen 
 <img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153806.png" width="250"/>
 
-### 🪪 User ID Card Screen  
+### 🪪 Profile Screen 
 <img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png" width="250"/>
 
 ---
@@ -26,8 +26,8 @@ A modern digital identity app built using **Flutter**. It features user profile 
 
 - 📇 **Scan QR Code Screen** with photo and personal details  
 - ❤️ **Favorites List** to manage important items  
-- 🔍 **QR Code Scanner** to scan and decode instantly  
-- 🪪 **Digital ID Card** UI with clean design
+- 🔍 ** Redemption Rules Screen ** to scan and decode instantly  
+- 🪪 **Profile Screen** UI with clean design
 
 ---
 
