@@ -1,16 +1,40 @@
-# digital_app
+# 🌐 Digital App
 
-A new Flutter project.
+A modern digital identity app developed with **Flutter**. It includes user profile management, favorite list, QR code scanning, and digital ID card functionalities.
 
-## Getting Started
+## 👩‍💻 Developed by: Mst. Khushi Akter
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| User Profile Screen | Favorite Screen |
+|---------------------|-----------------|
+| ![User Profile](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153623.png) | ![Favorites](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153716.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Scan QR Code Screen | User ID Card Screen |
+|---------------------|---------------------|
+| ![Scan QR](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153806.png) | ![ID Card](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png) |
+
+---
+
+## 🚀 Features
+
+- 📇 User Profile with image and information  
+- ❤️ Favorite items management  
+- 🔍 Scan and decode QR codes  
+- 🪪 Beautiful digital user ID card
+
+---
+
+## 🛠 Built With
+
+- **Flutter**
+- **Dart**
+- **GetX** (or any state management if used)
+- **Custom UI components**
+
+---
+
+## 📂 Repository Structure
+
