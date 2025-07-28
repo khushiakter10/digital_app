@@ -24,7 +24,7 @@ A modern digital identity app built using **Flutter**. It features user profile 
 
 ## 🚀 Features
 
-- 📇 **User Profile** with photo and personal details  
+- 📇 **Scan QR Code Screen** with photo and personal details  
 - ❤️ **Favorites List** to manage important items  
 - 🔍 **QR Code Scanner** to scan and decode instantly  
 - 🪪 **Digital ID Card** UI with clean design
