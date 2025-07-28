@@ -8,7 +8,7 @@ A modern digital identity app built using **Flutter**. It features user profile 
 
 ## 📱 App Screens
 
-### 🧑 User Profile Screen  
+### 🧑 Scan QR Code Screen  
 <img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153623.png" width="250"/>
 
 ### ❤️ Favorite Screen  
