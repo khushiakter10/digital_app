@@ -1,6 +1,6 @@
 # 🌐 Digital App
 
-A modern digital identity app developed with **Flutter**. It includes user profile management, favorite list, QR code scanning, and digital ID card functionalities.
+A modern digital identity app built using **Flutter**. It features user profile management, favorite list handling, QR code scanning, and a digital ID card interface — all designed to deliver a smooth and functional user experience.
 
 ## 👩‍💻 Developed by: Mst. Khushi Akter
 
@@ -8,31 +8,35 @@ A modern digital identity app developed with **Flutter**. It includes user profi
 
 ## 📱 App Screens
 
-| User Profile Screen | Favorite Screen |
-|---------------------|-----------------|
-| ![User Profile](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153623.png) | ![Favorites](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153716.png) |
+### 🧑 User Profile Screen  
+<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153623.png" width="250"/>
 
-| Scan QR Code Screen | User ID Card Screen |
-|---------------------|---------------------|
-| ![Scan QR](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153806.png) | ![ID Card](https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png) |
+### ❤️ Favorite Screen  
+<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153716.png" width="250"/>
+
+### 📷 Scan QR Code Screen  
+<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153806.png" width="250"/>
+
+### 🪪 User ID Card Screen  
+<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png" width="250"/>
 
 ---
 
 ## 🚀 Features
 
-- 📇 User Profile with image and information  
-- ❤️ Favorite items management  
-- 🔍 Scan and decode QR codes  
-- 🪪 Beautiful digital user ID card
+- 📇 **User Profile** with photo and personal details  
+- ❤️ **Favorites List** to manage important items  
+- 🔍 **QR Code Scanner** to scan and decode instantly  
+- 🪪 **Digital ID Card** UI with clean design
 
 ---
 
 ## 🛠 Built With
 
-- **Flutter**
-- **Dart**
-- **GetX** (or any state management if used)
-- **Custom UI components**
+- **Flutter** — cross-platform framework  
+- **Dart** — programming language  
+- **GetX** — state management (if used)  
+- **Custom UI components** — responsive & adaptive layouts
 
 ---
 
