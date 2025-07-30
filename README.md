@@ -5,20 +5,25 @@ A modern digital identity app built using **Flutter**. It features user profile 
 ## 👩‍💻 Developed by: Mst. Khushi Akter
 
 ---
-<div style="display: flex; gap: 10px;">
-📱 App Screens
-🧑 Scan QR Code Screen  
-<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153623.png" width="250"/>
-
-❤️ Favorite Screen  
-<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153716.png" width="250"/>
-
-📷 Redemption Rules Screen 
-<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153806.png" width="250"/>
-
-🪪 Profile Screen 
-<img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png" width="250"/>
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <div style="flex: 0 0 auto; text-align: center;">
+    <p>🧑 Scan QR Code Screen</p>
+    <img src="https://github.com/khushiakter10/digital_app/raw/main/Screenshots/Screenshot%202025-07-28%20153623.png" width="250"/>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center;">
+    <p>❤️ Favorite Screen</p>
+    <img src="https://github.com/khushiakter10/digital_app/raw/main/Screenshots/Screenshot%202025-07-28%20153716.png" width="250"/>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center;">
+    <p>📷 Redemption Rules Screen</p>
+    <img src="https://github.com/khushiakter10/digital_app/raw/main/Screenshots/Screenshot%202025-07-28%20153806.png" width="250"/>
+  </div>
+  <div style="flex: 0 0 auto; text-align: center;">
+    <p>🪪 Profile Screen</p>
+    <img src="https://github.com/khushiakter10/digital_app/raw/main/Screenshots/Screenshot%202025-07-28%20153855.png" width="250"/>
+  </div>
 </div>
+
 ---
 
 ## 🚀 Features
