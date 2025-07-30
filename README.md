@@ -5,7 +5,7 @@ A modern digital identity app built using **Flutter**. It features user profile 
 ## 👩‍💻 Developed by: Mst. Khushi Akter
 
 ---
-
+<div style="display: flex; gap: 10px;">
 ## 📱 App Screens
 
 ### 🧑 Scan QR Code Screen  
@@ -19,7 +19,7 @@ A modern digital identity app built using **Flutter**. It features user profile 
 
 ### 🪪 Profile Screen 
 <img src="https://github.com/khushiakter10/digital_app/blob/main/Screenshots/Screenshot%202025-07-28%20153855.png" width="250"/>
-
+</div>
 ---
 
 ## 🚀 Features
